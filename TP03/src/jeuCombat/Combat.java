@@ -6,7 +6,7 @@ public class Combat {
 	private Personnage []persos = new Personnage[3];
 	
 	public Combat() {
-		persos[0] = new Personnage("Aragorn", 5, new Attaque("Epee", 8, 10) ,  new Attaque("Arc", 5, 8));
+		persos[0] = new Personnage("Aragorn", 100, new Attaque("Epee", 8, 10) ,  new Attaque("Arc", 5, 8));
 		persos[1] = new Personnage("Gimli", 80, new Attaque("Epee", 8, 8) ,  new Attaque("Hache", 9, 12));
 		persos[2] = new Personnage("Legolas", 120, new Attaque("Epee", 8, 6) ,  new Attaque("Arc", 7, 15));
 	}
