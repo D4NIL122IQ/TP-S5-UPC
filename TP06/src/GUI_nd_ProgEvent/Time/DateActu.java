@@ -11,9 +11,9 @@ public class DateActu extends Application{
 	public void start(Stage stage) throws Exception{
 		stage.setTitle("Date");
 		
-		//PanelDate pane = new PanelDate();
+		PanelDate pane = new PanelDate();
 		
-		PanelTempsEntreDeuxClics pane = new PanelTempsEntreDeuxClics();
+		//PanelTempsEntreDeuxClics pane = new PanelTempsEntreDeuxClics();
 		Scene scene = new Scene(pane,  400, 200);
 		stage.setScene(scene);
 		stage.sizeToScene();
