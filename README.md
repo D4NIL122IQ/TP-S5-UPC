@@ -32,13 +32,19 @@ Lien : [https://gluonhq.com/products/javafx/](https://gluonhq.com/products/javaf
 
 ### Solution simple
 
-1. Télécharger un JDK incluant JavaFX, par exemple un build Azul :  
-   [https://gluonhq.com/products/javafx/](https://gluonhq.com/products/javafx/)
+1. Télécharger un JDK incluant JavaFX, [le build Azul](https://gluonhq.com/products/javafx/)
 2. Configurer le nouveau JDK dans les paramètres d'Eclipse.
 3. Associer ce JDK au projet Java.
 
 !!  [cette solution solution a été trouver sur Stack Overflow ](https://stackoverflow.com/questions/71622429/is-it-possible-to-run-javafx-with-java-11-on-m1-mac)
 
+### À propos du tp 
+
+• Reproduction de fenêtre statique en JavaFX
+• GUI & programmation évènementielle
+• Classe interne (anoynme et non anonyme) 
+• Lambda expression
 
 
-© @D4NIL122IQ 
+
+© [@D4NIL122IQ](https://github.com/D4NIL122IQ) 
